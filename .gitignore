@@ -1,0 +1,58 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build output
+# =========================
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# =========================
+# MSVC artifacts
+# =========================
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+
+# =========================
+# MSVC logs & temp files
+# =========================
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# =========================
+# CMake (if used later)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# =========================
+# System files
+# =========================
+Thumbs.db
+Desktop.ini
+
+# =========================
+# VS Code (optional)
+# =========================
+.vscode/
