@@ -8,6 +8,10 @@ int main() {
 	//phone();
 	//vowel();
 	//lstnme();
-	average();
+	//average();
+	//interest();
+	//card();
+	//rcopy();
+	fib();
 	return 0;
 }
