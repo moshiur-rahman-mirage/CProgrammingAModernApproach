@@ -2,7 +2,9 @@
 int main() {
 	//chess1();
 	//repdigit();
-	compound();
+	//compound();
+	//b1ff();
+	rowcolsum();
 
 	return 0;
 }
