@@ -4,7 +4,9 @@ int main() {
 	//repdigit();
 	//compound();
 	//b1ff();
-	rowcolsum();
+	//rowcolsum();
+	//score();
+	rndomwlk();
 
 	return 0;
 }
