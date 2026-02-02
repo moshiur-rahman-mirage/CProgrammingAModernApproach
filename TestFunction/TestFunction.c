@@ -1,6 +1,11 @@
 #include<stdio.h>
 
 int main() {
-	countdays();
+	//countdays();
+	//total();
+	//kth();
+	//arprltd();
+	//ssort();
+	crap();
 	return 0;
 }
